@@ -6,4 +6,4 @@
 
 ### Issue(s)
 * For some reason static linking wasn't possible, hence the inclusion of shared object libraries.
-* Windows libraries aren't included, I might learn CMake/Freemake to make it, or make a VS solution for it.
+* Windows libraries aren't included, I might learn CMake/Freemake to make the project cross-platform, or make a VS solution for it.
